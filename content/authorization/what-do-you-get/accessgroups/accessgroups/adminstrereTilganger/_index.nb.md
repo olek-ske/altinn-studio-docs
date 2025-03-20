@@ -13,22 +13,22 @@ aliases:
 |[Klientadministrasjon for regnskapsfører og revisor](https://docs.altinn.studio/nb/authorization/what-do-you-get/accessgroups/accessgroups/adminstreretilganger/#klientadministrasjon-for-regnskapsfører-og-revisor)|
 |[Tilgangsstyring](https://docs.altinn.studio/nb/authorization/what-do-you-get/accessgroups/accessgroups/adminstreretilganger/#tilgangsstyring)|
 |[Hovedadministrator](https://docs.altinn.studio/nb/authorization/what-do-you-get/accessgroups/accessgroups/adminstreretilganger/#hovedadminstrator)|
-|[Maskonporten administrator](https://docs.altinn.studio/nb/authorization/what-do-you-get/accessgroups/accessgroups/adminstreretilganger/#maskinporten-administrator)|
+|[Maskinporten administrator](https://docs.altinn.studio/nb/authorization/what-do-you-get/accessgroups/accessgroups/adminstreretilganger/#maskinporten-administrator)|
 
 ### Klientadministrator
-Denne rollen gir bruker mulighet til å administrere tilganger på vegne av klienter og kunder.
+Tilgangspakken gir bruker mulighet til å administrere tilganger på vegne av klienter og kunder.
 *urn:altinn:accesspackage:klientadminstrator*
 
 ### Tilgangsstyring
-Denne tilgangspakken gir bruker mulighet til å gi videre tilganger for virksomheten som man selv innehar.  
+Tilgangspakken gir bruker mulighet til å gi videre tilganger for virksomheten som virksomheten selv innehar.  
 *urn:altinn:accesspackage:tilgangsstyring*
 
 ### Hovedadminstrator
-Denne tilgangspakken gir bruker mulighet til å administrere alle tilganger for virksomheten.  
+Tilgangspakken gir bruker mulighet til å administrere alle tilganger for virksomheten.  
 *urn:altinn:accesspackage:hovedadministrator*
 
 ### Maskinporten administrator
-Denne tilgangspakken gir bruker mulighet til å administrere tilgang til maskinporten scopes.  
+Tilgangspakken gir bruker mulighet til å administrere tilgang til maskinporten scopes.  
 *urn:altinn:accesspackage:maskinporten-administrator*
 
 ## Hvilke roller fra Enhetsregisteret får fullmakt til tilgangspakken
